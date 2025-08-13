@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emirhan İPEK</h1>
 <h3 align="center">ELECTRICAL ELECTRONICS ENGINEER</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> emirhanipek381@gmail.com
 <p align="left">
 </p>
 
